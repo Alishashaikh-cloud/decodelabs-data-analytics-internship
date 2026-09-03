@@ -29,19 +29,20 @@ Exploratory Data Analysis (EDA) Project — Completed! 🎉
 
 Excited to share that I’ve successfully completed my EDA project using Python as part of my Data Analytics learning journey with Decodelabs 🚀
 
-##Key requirements:
-• Calculate basic statistics (mean , median , count)
-• identify trends and outliers 
+## Key requirements:
+- Calculate basic statistics (mean , median , count)
+- identify trends and outliers 
 
 ## 📈Key Insights :
-• Calculated basic statistics such as Mean,    Median, Mode, and Count.
-• Analyzed the distribution of Unit Prices using histograms.
-• Identified trends and patterns in the dataset.
-• Detected outliers and unusual values in the data.
-• Analyzed monthly sales trends to understand changes over time.
-• Used visualizations to identify common values, patterns, and unusual observations.
+- Calculated basic statistics such as  Mean,Median, Mode, and Count.
+- Analyzed the distribution of Unit Prices using histograms.
+- Identified trends and patterns in the dataset.
+- Detected outliers and unusual values in the data.
+- Analyzed monthly sales trends to understand changes over time.
+- Used visualizations to identify common values, patterns, and unusual observations.
 
 ## Learning Outcome
+This project helped me strengthen my practical understanding of Python, Pandas, Data Analysis and Data Visualization.
 This project helped me strengthen my practical understanding of Python, Pandas, Data Analysis and Data Visualization.
 
 
